@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Action Bsr</string>
+    <string name="action_search">search</string>
+    <string name="action_share">share</string>
+    <string name="action_email">email</string>
+    <string name="activity_a">activity_a</string>
+    <string name="activity_b">activity_b</string>
+    <string name="activity_c">activity_c</string>
+    <string name="exit">exit</string>
+</resources>
